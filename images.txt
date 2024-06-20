@@ -1,3 +1,5 @@
 # jxxghp/moviepilot:latest
 # rustdesk/rustdesk-server:latest
-zhayujie/chatgpt-on-wechat:latest
+# zhayujie/chatgpt-on-wechat:latest
+linuxserver/calibre-web:latest
+

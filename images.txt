@@ -1,6 +1,6 @@
-jxxghp/moviepilot:latest
+# jxxghp/moviepilot:latest
 # rustdesk/rustdesk-server:latest
 # zhayujie/chatgpt-on-wechat:latest
 # linuxserver/calibre-web:latest
 # jc21/nginx-proxy-manager:latest
-
+homeassistant/home-assistant:latest

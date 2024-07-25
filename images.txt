@@ -3,5 +3,5 @@
 # linuxserver/calibre-web:latest
 # jc21/nginx-proxy-manager:latest
 # homeassistant/home-assistant:latest
-gdy666/lucky:latest
-jxxghp/moviepilot:latest
+# gdy666/lucky:latest
+jxxghp/moviepilot:1.9.10-1

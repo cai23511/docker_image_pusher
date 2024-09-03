@@ -5,3 +5,4 @@
 # homeassistant/home-assistant:latest
 # gdy666/lucky:latest
 jxxghp/moviepilot:latest
+likeflyme/cloudbak:latest

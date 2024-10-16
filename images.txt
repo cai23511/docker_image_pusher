@@ -6,4 +6,4 @@
 # gdy666/lucky:latest
 # jxxghp/moviepilot:latest
 # likeflyme/cloudbak:latest
-irinesistiana/mosdns
+irinesistiana/mosdns:latest

@@ -2,7 +2,8 @@
 # zhayujie/chatgpt-on-wechat:latest
 # linuxserver/calibre-web:latest
 # jc21/nginx-proxy-manager:latest
-homeassistant/home-assistant:latest
+# homeassistant/home-assistant:latest
 # gdy666/lucky:latest
 # jxxghp/moviepilot:latest
 # likeflyme/cloudbak:latest
+irinesistiana/mosdns

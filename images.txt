@@ -9,4 +9,5 @@
 #irinesistiana/mosdns:latest
 # jeessy/ddns-go:latest
 # weejewel/wg-easy:latest
-moelin/1panel:latest
+# moelin/1panel:latest
+iyuucn/iyuuplus:latest

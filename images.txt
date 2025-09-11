@@ -11,4 +11,5 @@
 # weejewel/wg-easy:latest
 # moelin/1panel:latest
 # iyuucn/iyuuplus:latest
-jxxghp/moviepilot-v2:latest
+# jxxghp/moviepilot-v2:latest
+mzz2017/v2raya:latest

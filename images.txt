@@ -4,7 +4,7 @@
 # jc21/nginx-proxy-manager:latest
 # homeassistant/home-assistant:latest
 # gdy666/lucky:latest
-jxxghp/moviepilot:latest
+jxxghp/moviepilot:1.9.19
 # likeflyme/cloudbak:latest
 #irinesistiana/mosdns:latest
 # jeessy/ddns-go:latest

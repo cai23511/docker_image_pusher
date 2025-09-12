@@ -12,4 +12,5 @@
 # moelin/1panel:latest
 # iyuucn/iyuuplus:latest
 # jxxghp/moviepilot-v2:latest
-mzz2017/v2raya:latest
+# mzz2017/v2raya:latest
+mzz2017/v2raya:v2.2.6.3

@@ -3,7 +3,7 @@
 # linuxserver/calibre-web:latest
 # jc21/nginx-proxy-manager:latest
 # homeassistant/home-assistant:latest
-gdy666/lucky:latest
+gdy666/lucky:2.27.2
 # jxxghp/moviepilot:1.9.19
 # likeflyme/cloudbak:latest
 # irinesistiana/mosdns:latest

@@ -16,4 +16,4 @@
 # mzz2017/v2raya:v2.2.6.3
 # homeassistant/home-assistant
 # moefurina/ncm-api:latest
-eclipse/mosquitto:latest
+toke/mosquitto:latest
